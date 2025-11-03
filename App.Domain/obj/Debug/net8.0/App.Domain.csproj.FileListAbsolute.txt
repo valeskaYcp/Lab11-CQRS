@@ -1,0 +1,11 @@
+C:\DAEA\Lab11-ValeskaCondori\App.Domain\bin\Debug\net8.0\App.Domain.deps.json
+C:\DAEA\Lab11-ValeskaCondori\App.Domain\bin\Debug\net8.0\App.Domain.dll
+C:\DAEA\Lab11-ValeskaCondori\App.Domain\bin\Debug\net8.0\App.Domain.pdb
+C:\DAEA\Lab11-ValeskaCondori\App.Domain\obj\Debug\net8.0\App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\DAEA\Lab11-ValeskaCondori\App.Domain\obj\Debug\net8.0\App.Domain.AssemblyInfoInputs.cache
+C:\DAEA\Lab11-ValeskaCondori\App.Domain\obj\Debug\net8.0\App.Domain.AssemblyInfo.cs
+C:\DAEA\Lab11-ValeskaCondori\App.Domain\obj\Debug\net8.0\App.Domain.csproj.CoreCompileInputs.cache
+C:\DAEA\Lab11-ValeskaCondori\App.Domain\obj\Debug\net8.0\App.Domain.dll
+C:\DAEA\Lab11-ValeskaCondori\App.Domain\obj\Debug\net8.0\refint\App.Domain.dll
+C:\DAEA\Lab11-ValeskaCondori\App.Domain\obj\Debug\net8.0\App.Domain.pdb
+C:\DAEA\Lab11-ValeskaCondori\App.Domain\obj\Debug\net8.0\ref\App.Domain.dll

@@ -1,0 +1,17 @@
+C:\DAEA\Lab11-ValeskaCondori\App.Infrastructure\bin\Debug\net8.0\App.Infrastructure.deps.json
+C:\DAEA\Lab11-ValeskaCondori\App.Infrastructure\bin\Debug\net8.0\App.Infrastructure.runtimeconfig.json
+C:\DAEA\Lab11-ValeskaCondori\App.Infrastructure\bin\Debug\net8.0\App.Infrastructure.dll
+C:\DAEA\Lab11-ValeskaCondori\App.Infrastructure\bin\Debug\net8.0\App.Infrastructure.pdb
+C:\DAEA\Lab11-ValeskaCondori\App.Infrastructure\obj\Debug\net8.0\App.Infrastructure.csproj.AssemblyReference.cache
+C:\DAEA\Lab11-ValeskaCondori\App.Infrastructure\obj\Debug\net8.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\DAEA\Lab11-ValeskaCondori\App.Infrastructure\obj\Debug\net8.0\App.Infrastructure.AssemblyInfoInputs.cache
+C:\DAEA\Lab11-ValeskaCondori\App.Infrastructure\obj\Debug\net8.0\App.Infrastructure.AssemblyInfo.cs
+C:\DAEA\Lab11-ValeskaCondori\App.Infrastructure\obj\Debug\net8.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\DAEA\Lab11-ValeskaCondori\App.Infrastructure\obj\Debug\net8.0\App.Infrastructure.dll
+C:\DAEA\Lab11-ValeskaCondori\App.Infrastructure\obj\Debug\net8.0\refint\App.Infrastructure.dll
+C:\DAEA\Lab11-ValeskaCondori\App.Infrastructure\obj\Debug\net8.0\App.Infrastructure.pdb
+C:\DAEA\Lab11-ValeskaCondori\App.Infrastructure\obj\Debug\net8.0\App.Infrastructure.genruntimeconfig.cache
+C:\DAEA\Lab11-ValeskaCondori\App.Infrastructure\obj\Debug\net8.0\ref\App.Infrastructure.dll
+C:\DAEA\Lab11-ValeskaCondori\App.Infrastructure\bin\Debug\net8.0\App.Domain.dll
+C:\DAEA\Lab11-ValeskaCondori\App.Infrastructure\bin\Debug\net8.0\App.Domain.pdb
+C:\DAEA\Lab11-ValeskaCondori\App.Infrastructure\obj\Debug\net8.0\App.Infr.D9A1D18F.Up2Date
